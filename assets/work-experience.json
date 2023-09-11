@@ -1,0 +1,55 @@
+[
+  {
+    "puesto": "Backend developer",
+    "empresa": "CRAU",
+    "fecha_ini": "07/2023",
+    "fecha_fin": "Presente",
+    "ciudad": "Fortin de las Flores",
+    "pais": "México",
+    "logros": [
+      {
+        "logro": "Corrección de la base de datos, eliminando errores que estaban causando problemas de rendimiento."
+      },
+      {
+        "logro": "Corrección de la base de datos, eliminando errores que estaban causando problemas de rendimiento."
+      }
+    ]
+  },
+
+  {
+    "puesto": "Full stack",
+    "empresa": "Alura latam",
+    "fecha_ini": "06/2023",
+    "fecha_fin": "Present",
+    "ciudad": "Zapoapan Ixtaczoquitlan",
+    "pais": "México",
+    "logros": [
+      {
+        "logro": "Desarrollo de un sistema de encriptado y desencriptado de textos que es seguro y eficiente."
+      },
+      {
+        "logro": "Creación de una interfaz de usuario intuitiva y fácil de usar."
+      }
+    ]
+  },
+
+  {
+    "puesto": "Frontend developer",
+    "empresa": "Axolotl developer",
+    "fecha_ini": "02/2023",
+    "fecha_fin": "07/2023",
+    "ciudad": "Sumidero Ixtaczoquitlan",
+    "pais": "México",
+    "logros": [
+      {
+        "logro": "Desarrollo de la página de registro de usuarios utilizando Angular. La nueva página de registro es más fácil de usar e intuitiva."
+      },
+      {
+        "logro": "Actualización de la página principal del sitio web utilizando Angular, agregando nuevas funciones y contenido. La nueva página principal es más atractiva y informativa, y ha mejorado la experiencia del usuario."
+      },
+      {
+        "logro": "Creación de la página de comentarios utilizando Angular, permitiendo a los usuarios dar su opinión sobre el sitio web. La nueva página de comentarios ha proporcionado información valiosa sobre la satisfacción de los usuarios."
+      }
+    ]
+  }
+]
