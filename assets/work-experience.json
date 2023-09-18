@@ -1,22 +1,5 @@
 [
   {
-    "puesto": "Backend developer",
-    "empresa": "CRAU",
-    "fecha_ini": "07/2023",
-    "fecha_fin": "Presente",
-    "ciudad": "Fortin de las Flores",
-    "pais": "México",
-    "logros": [
-      {
-        "logro": "Corrección de la base de datos, eliminando errores que estaban causando problemas de rendimiento."
-      },
-      {
-        "logro": "Corrección de la base de datos, eliminando errores que estaban causando problemas de rendimiento."
-      }
-    ]
-  },
-
-  {
     "puesto": "Full stack",
     "empresa": "Alura latam",
     "fecha_ini": "06/2023",
@@ -69,6 +52,42 @@
       },
       {
         "logro": "Creación de la página de comentarios utilizando Angular, permitiendo a los usuarios dar su opinión sobre el sitio web. La nueva página de comentarios ha proporcionado información valiosa sobre la satisfacción de los usuarios."
+      }
+    ]
+  },
+  {
+    "puesto": "Backend developer",
+    "empresa": "Axolotl developer",
+    "fecha_ini": "9/2022",
+    "fecha_fin": "10/2022",
+    "ciudad": "Sumidero Ixtaczoquitlan",
+    "pais": "México",
+    "logros": [
+      {
+        "logro": "Desarrollo de un algoritmo para estimar el esfuerzo y el coste de desarrollo de software, basado en el modelo cocomo."
+      },
+      {
+        "logro": "Implementación de un algoritmo en una aplicación de escritorio, que era fácil de usar y escalable."
+      },
+      {
+        "logro": "Aplicación probada con éxito en un conjunto de datos de proyectos de desarrollo de software."
+      }
+    ]
+  },
+
+  {
+    "puesto": "Backend developer",
+    "empresa": "CRAU",
+    "fecha_ini": "7/2022",
+    "fecha_fin": "Presente",
+    "ciudad": "Fortin de las Flores",
+    "pais": "México",
+    "logros": [
+      {
+        "logro": "Corrección de la base de datos, eliminando errores que estaban causando problemas de rendimiento."
+      },
+      {
+        "logro": "Corrección de la base de datos, eliminando errores que estaban causando problemas de rendimiento."
       }
     ]
   }
