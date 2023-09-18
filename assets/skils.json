@@ -1,11 +1,20 @@
 [
-  { "skil": "Conocimiento de lenguajes de programación" },
-  { "skil": "Conocimiento de estructuras de datos y algoritmos" },
-  { "skil": "Conocimiento de sistemas operativos y bases de datos" },
-  { "skil": "Conocimiento de herramientas y marcos de desarrollo" },
-  { "skil": "Resolución de problemas" },
-  { "skil": "Lógica y pensamiento crítico" },
-  { "skil": "Comunicación" },
-  { "skil": "Trabajo en equipo" },
-  { "skil": "Aprendizaje continuo" }
+  { "skil": "Conocimiento de lenguajes de programación", "Porcentaje": 65 },
+  {
+    "skil": "Conocimiento de estructuras de datos y algoritmos",
+    "Porcentaje": 55
+  },
+  {
+    "skil": "Conocimiento de sistemas operativos y bases de datos",
+    "Porcentaje": 70
+  },
+  {
+    "skil": "Conocimiento de herramientas y marcos de desarrollo",
+    "Porcentaje": 60
+  },
+  { "skil": "Resolución de problemas", "Porcentaje": 70 },
+  { "skil": "Lógica y pensamiento crítico", "Porcentaje": 75 },
+  { "skil": "Comunicación", "Porcentaje": 80 },
+  { "skil": "Trabajo en equipo", "Porcentaje": 80 },
+  { "skil": "Aprendizaje continuo", "Porcentaje": 75 }
 ]
