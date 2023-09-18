@@ -1,20 +1,43 @@
 [
   {
-    "interes": "Video Juegos"
+    "interes": "Video Juegos",
+    "icon": "game"
   },
   {
-    "interes": "Desarrollo"
+    "interes": "Desarrollo",
+    "icon": "code"
   },
   {
-    "interes": "Musica"
+    "interes": "IA",
+    "icon": "ai"
   },
   {
-    "interes": "Animación"
+    "interes": "Música",
+    "icon": "music"
   },
   {
-    "interes": "Video"
+    "interes": "Animación",
+    "icon": "draw"
   },
   {
-    "interes": "Basquetbol"
+    "interes": "Video",
+    "icon": "rep"
+  },
+  {
+    "interes": "Fotografía",
+    "icon": "foto"
+  },
+  {
+    "interes": "Deporte",
+    "icon": "combat"
+  },
+  {
+    "interes": "Alimentación",
+    "icon": "eat"
+  },
+
+  {
+    "interes": "Básquetbol",
+    "icon": "basquet"
   }
 ]
