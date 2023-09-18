@@ -20,7 +20,7 @@
     "puesto": "Full stack",
     "empresa": "Alura latam",
     "fecha_ini": "06/2023",
-    "fecha_fin": "Present",
+    "fecha_fin": "Presente",
     "ciudad": "Zapoapan Ixtaczoquitlan",
     "pais": "México",
     "logros": [
@@ -29,6 +29,26 @@
       },
       {
         "logro": "Creación de una interfaz de usuario intuitiva y fácil de usar."
+      }
+    ]
+  },
+
+  {
+    "puesto": "Project Manager",
+    "empresa": "Axolotl developer",
+    "fecha_ini": "03/2023",
+    "fecha_fin": "07/2023",
+    "ciudad": "Sumidero Ixtaczoquitlan",
+    "pais": "México",
+    "logros": [
+      {
+        "logro": "Desarrollo un motor de inferencia basado en prolog para el juego, que era capaz de adivinar el personaje que estaba pensando el jugador con una precisión del 95%."
+      },
+      {
+        "logro": "Implementación un sistema de captura de movimiento basado en Kinect para el juego, que permitía a los usuarios interactuar con el juego de forma natural."
+      },
+      {
+        "logro": "Desarrolló una base de datos de personajes para el juego, que contenía información sobre los personajes."
       }
     ]
   },
