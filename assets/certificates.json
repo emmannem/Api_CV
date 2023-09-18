@@ -1,12 +1,27 @@
 [
   {
-    "nombre": "Gestión ágil: Liderando el cambio en un ambiente de agilidad",
-    "año": "2023",
-    "descripción": "Entienda la diferencia entre la Gestión Tradicional y la Gestión Ágil y Sepa de la importancia de la mejora continua para un proceso ágil"
+    "nombre": "Python",
+    "anio": "2023",
+    "descripcion": "Aprenda el lenguaje más importante para la ciencia de datos."
   },
   {
-    "nombre": "Hábitos: Ser productivo para cumplir sus metas personales",
-    "año": "2022",
-    "descripcion": "Sepa como crear metas que se adecuen a sus objetivos."
+    "nombre": "Pandas",
+    "anio": "2023",
+    "descripcion": "Resuelva desafíos prácticos breves para perfeccionar sus habilidades de manipulación de datos."
+  },
+  {
+    "nombre": "Gestión ágil: Liderando el cambio en un ambiente de agilidad",
+    "anio": "2023",
+    "descripcion": "Entienda la diferencia entre la Gestión Tradicional y la Gestión Ágil y Sepa de la importancia de la mejora continua para un proceso ágil"
+  },
+  {
+    "nombre": "Pitch para entrevistas: Haga presentaciones impactantes",
+    "anio": "2023",
+    "descripcion": "Aprenda los fundamentos de la comunicación efectiva, así como las técnicas y herramientas específicas para realizar presentaciones y conversaciones efectivas."
+  },
+  {
+    "nombre": "Organización de equipos ágiles: Las funciones existentes en un equipo",
+    "anio": "2023",
+    "descripcion": "Aprenda los fundamentos del trabajo ágil, así como los diferentes tipos de equipos ágiles, la división de tareas dentro del equipo y las responsabilidades del Product Owner y del Scrum Master."
   }
 ]
