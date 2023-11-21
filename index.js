@@ -39,20 +39,20 @@ app.get("/proxy_size", (req, res, next) => {
   res.sendfile("assets/proxi_size.json");
 });
 
-app.get("/3a_test1", (req, res, next) => {
-  res.sendfile("assets/3a_test1.json");
+app.get("/test_uno", (req, res, next) => {
+  res.sendfile("assets/test_uno.json");
 });
 
-app.get("/3a_test2", (req, res, next) => {
-  res.sendfile("assets/3a_test2.json");
+app.get("/test_dos", (req, res, next) => {
+  res.sendfile("assets/test_dos.json");
 });
 
-app.get("/3a_test3", (req, res, next) => {
-  res.sendfile("assets/3a_test3.json");
+app.get("/test_tres", (req, res, next) => {
+  res.sendfile("assets/test_tres.json");
 });
 
-app.get("/3a_test4", (req, res, next) => {
-  res.sendfile("assets/3a_test4.json");
+app.get("/test_cuatro", (req, res, next) => {
+  res.sendfile("assets/test_cuatro.json");
 });
 
 app.listen(port, () => console.log("listening on port " + port));
